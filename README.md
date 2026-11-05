@@ -1,2 +1,3 @@
 # laba7
-<img width="674" height="179" alt="image" src="https://github.com/user-attachments/assets/55574140-0f6b-4fa9-8fb5-c195164dcdc4" />
+<img width="991" height="730" alt="image" src="https://github.com/user-attachments/assets/2ebe180c-454a-4e8f-b649-25f701a59dd1" />
+
